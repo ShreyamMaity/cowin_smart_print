@@ -12,7 +12,6 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Window.initialize();
   await SystemTheme.accentInstance.load();
-  darkMode = await SystemTheme.darkMode;
   if (Platform.isWindows) {
     await Window.hideWindowControls();
     doWhenWindowReady(() {

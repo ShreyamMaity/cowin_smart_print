@@ -14,7 +14,7 @@ jobs:
         with:
           channel: 'stable'
       - run: flutter pub get
-      - run: flutter test
+      - run: flutter config --enable-windows-desktop
       - run: flutter build windows
       - run: flutter pub run msix:create
       - name: Push to Releases
