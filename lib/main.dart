@@ -7,7 +7,7 @@ import 'package:fluent_ui/fluent_ui.dart';
 import 'package:flutter_acrylic/flutter_acrylic.dart';
 import 'package:system_theme/system_theme.dart';
 
-late bool  darkMode;
+
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Window.initialize();
@@ -37,6 +37,7 @@ class _MyAppState extends State<MyApp> {
   @override
   initState()  {
     super.initState();
+    
     //  Window.setEffect(
     //   effect: WindowEffect.acrylic,
     //   color: SystemTheme.accentInstance.accent,
@@ -45,7 +46,7 @@ class _MyAppState extends State<MyApp> {
 
   @override
   Widget build(BuildContext context) {
-    final bool isDark =  darkMode ;
+    final bool isDark =  true;
     
     return FluentApp(
       title: 'Cowin Smart Print',
