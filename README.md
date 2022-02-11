@@ -63,7 +63,6 @@
 
 <img src="assets/presskit/snap2.png" width="70%"></img>
 <img src="assets/presskit/snap3.png" width="70%"></img>
-<img src="assets/presskit/working1.png" width="70%"></img>
 <img src="assets/presskit/working2.png" width="70%"></img>
 <img src="assets/presskit/working3.png" width="70%"></img>
 </details>
