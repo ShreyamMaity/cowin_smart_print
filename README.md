@@ -10,7 +10,7 @@
 <img src=https://badges.frapsoft.com/os/v2/open-source.svg?v"/>
 <img src=https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square"/>
 <img src="https://img.shields.io/github/license/ShreyamMaity/cowin_smart_print"/>
-<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FShreyamMaity%2Fcowin_smart_print"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FShreyamMaity%2Fcowin_smart_print&label=visitors&countColor=%23263759"/></a>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FShreyamMaity%2Fcowin_smart_print"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FShreyamMaity%2Fcowin_smart_print&label=visitors&countColor=%23263759&style=plastic" /></a>
 <img src="https://img.shields.io/github/stars/ShreyamMaity/cowin_smart_print"/>
 <img src="https://img.shields.io/github/forks/ShreyamMaity/cowin_smart_print"/>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
