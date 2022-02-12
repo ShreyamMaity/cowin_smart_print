@@ -40,7 +40,7 @@
 ## Usage :
 
 1. Select Card Type and Print Type using the sliders
-2. Choose the Certificate you want to convert
+2. Choose the Certificate you want to convert ( Download a CoWIN Certificate from [here](https://selfregistration.cowin.gov.in/))
 3. Press convert and wait for the conversion to complete (at leasr wait for a minute)
 4. Choose the printer you want to print the certificate
 
