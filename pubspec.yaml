@@ -49,7 +49,8 @@ flutter:
 msix_config:
   display_name: Cowin Smart Print
   publisher_display_name: Shreyam Maity
-  identity_name: com.ShreyamMaity.cowin-smart-print
+  identity_name: 25674ShreyamMaity.CoWINSmartPrint
+  publisher: CN=338ABBC6-098C-49DA-A6A1-D5D1D1754FD1
   msix_version: 1.0.0.0
   logo_path: assets/logo.png
   output_path: release/
@@ -57,5 +58,4 @@ msix_config:
   architecture: x64
   language: en-US
   file_extension: .pdf
-  certificate_path: cert/CERTIFICATE.pfx
-  certificate_password: 1234
+  store: true

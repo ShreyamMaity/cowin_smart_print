@@ -35,7 +35,9 @@
 
 ## Installation :
 
-- Download MSIX pakage and Install it
+- Install from the Microsoft Store Page (Upcoming)
+- Download the setup file from the Github Releases and install (Recommended)
+- Download MSIX pakage and Install it (optional)
 
 ## Usage :
 
@@ -67,7 +69,11 @@
 <img src="assets/presskit/working3.png" width="70%"></img>
 </details>
 
+## Privacy Policy :
+- [privacy-policy](/privacy-policy/index.html)
+
 <hr/>
+
 
 # <p align="center">Contributors
 
