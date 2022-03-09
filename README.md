@@ -18,7 +18,8 @@
 
 ---
 
-> A GUI based CoWIN Certificate to Smart Card Converter.
+> A GUI based CoWIN Certificate to Smart Card Converter.  
+> Download from [Microsoft Store](https://www.microsoft.com/store/productId/9PM5ZJG9SLW3)
 
 <img src="assets/presskit/snap1.png" width="49%"></img>
 <img src="assets/presskit/snap3.png" width="49%"></img>
@@ -35,7 +36,7 @@
 
 ## Installation :
 
-- Install from the Microsoft Store Page (Upcoming)
+- Install from the Microsoft Store Page ([LINK](https://www.microsoft.com/store/productId/9PM5ZJG9SLW3))
 - Download the setup file from the Github Releases and install (Recommended)
 - Download MSIX pakage and Install it (optional)
 
